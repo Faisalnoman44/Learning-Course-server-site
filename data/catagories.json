@@ -1,0 +1,32 @@
+[
+  {
+    "id": "6357ee4d7dd1455dcecac3bf",
+    "picture": "https://i.pinimg.com/564x/71/5b/59/715b59c8c7545d9dafb1a04111edde40.jpg",
+    "name": "C Language"
+  },
+  {
+    "id": "6357ee4d9501d95547fc2794",
+    "picture": "https://www.nicepng.com/png/detail/981-9813175_c-logo-c-programming-language-logo.png",
+    "name": "C++"
+  },
+  {
+    "id": "6357ee4df45a6f9423c98537",
+    "picture": "http://placehold.it/32x32",
+    "name": "PYTHON"
+  },
+  {
+    "id": "6357ee4d8939694b54040430",
+    "picture": "https://thecodeprogram.com/img/contents/2015/11/javascript-nedir-temel-orneklerle-genis-anlatim.png",
+    "name": "JAVASCRIPT"
+  },
+  {
+    "id": "6357ee4d09ccb86dc03284d5",
+    "picture": "https://ih1.redbubble.net/image.530910172.2136/st,small,507x507-pad,600x600,f8f8f8.u6.jpg",
+    "name": "PHP"
+  },
+  {
+    "id": "6357ee4dcf159a79750cabd2",
+    "picture": "https://cdn1.vectorstock.com/i/1000x1000/73/45/ruby-programming-language-web-vector-5977345.jpg",
+    "name": "RUBY"
+  }
+]
