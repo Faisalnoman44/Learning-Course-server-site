@@ -9,13 +9,19 @@ const catagories = require('./data/catagories.json')
 
 
 app.get('/', (req, res) =>{
-    res.send('data jacche');
+    res.send('data send');
 })
 
 app.get('/catagories', (req, res) =>{
     res.send(catagories)
 })
 
+app.get('/catagories/:id', (req, res) =>{
+    const id = req.params.id;
+    const selectedCourse = catagories.find(catagory => catagory.id === id);
+    res.send(selectedCourse);
+})
+
 app.listen(port, () =>{
-    console.log('server kaj ki kortese', port);
+    console.log('server work', port);
 })
